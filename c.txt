@@ -1,2 +1,4 @@
 this is c.txt
 this new line
+this is new line
+this is new line 4
